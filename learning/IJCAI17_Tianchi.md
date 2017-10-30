@@ -10,11 +10,11 @@
 我们鼓励参赛选手使用类似天气等额外的数据，并希望参赛选手能够将数据源共享在论坛中。
 
 #### 获奖队伍
-冠军：CAT
-亚军：生活充满节奏感 
-季军：---------Baseline--------
-特别奖：VanillaTwilight 和 Flamingo
-最具潜力奖：VanillaTwilight （该奖项由教育合作方Udacity评出）
+* 冠军：CAT
+* 亚军：生活充满节奏感 
+* 季军：---------Baseline--------
+* 特别奖：VanillaTwilight 和 Flamingo
+* 最具潜力奖：VanillaTwilight （该奖项由教育合作方Udacity评出）
 
 ### 天池论坛：获奖队伍思路及PPT [链接](https://tianchi.aliyun.com/competition/new_articleDetail.html?postsId=2525&from=singlemessage)
 冠军CAT [思路](https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323) 与 [PPT](https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.9876270.0.0.5561bfeaslNequ&raceId=231591&postsId=2409)
