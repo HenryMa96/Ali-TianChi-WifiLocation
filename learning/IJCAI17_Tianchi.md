@@ -17,7 +17,7 @@
 * 最具潜力奖：VanillaTwilight （该奖项由教育合作方Udacity评出）
 
 ### 天池论坛：获奖队伍思路及PPT [链接](https://tianchi.aliyun.com/competition/new_articleDetail.html?postsId=2525&from=singlemessage)
-冠军CAT [思路](https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323) 与 [PPT](https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.9876270.0.0.5561bfeaslNequ&raceId=231591&postsId=2409)
+* 冠军CAT [思路](https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323) 与 [PPT](https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.9876270.0.0.5561bfeaslNequ&raceId=231591&postsId=2409)
 
 ### 在GitHub上找到的相关 project
 * 队伍第4名 队名：Flamingo 清华大学 [Jessicamidi/IJCAI17_Tianchi_Rank4](https://github.com/Jessicamidi/IJCAI17_Tianchi_Rank4)
